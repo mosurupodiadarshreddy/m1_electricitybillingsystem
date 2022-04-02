@@ -1,4 +1,4 @@
-block diagrams
+behaviour diagrams
 
 low level diagram
 
